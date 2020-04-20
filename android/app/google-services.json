@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "305877052546",
+    "firebase_url": "https://chat-app-f48a9.firebaseio.com",
+    "project_id": "chat-app-f48a9",
+    "storage_bucket": "chat-app-f48a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305877052546:android:c1a9a096a048b54f5a989b",
+        "android_client_info": {
+          "package_name": "com.omarbakry.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305877052546-sqrtqrjo3s22ahr1e0kolm37sehajeg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATwIkoW2SZGuFec3LI1XkAJw1DQvqGAoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305877052546-sqrtqrjo3s22ahr1e0kolm37sehajeg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
